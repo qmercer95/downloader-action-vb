@@ -219,3 +219,11 @@ https://github.com/drunkleen/downloader-action/raw/<branch>/downloads/<folder>/<
 - **`[skip ci]`:** All automated commits include this to prevent recursive workflow triggers
 - **Storage limit:** GitHub repos have a soft 5GB limit — run the History Cleaner periodically when downloading large files
 - **Timeouts:** Full Downloader runs up to 120 minutes
+
+---
+
+## Downloaded Files
+
+1. [archive_20260518_010415_2](https://github.com/qmercer95/downloader-action-vb/tree/master/downloads/archive_20260518_010415_2)
+
+---
